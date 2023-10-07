@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77759b317ffc467ca4baf5a1eda7a268, type: 3}
+  m_Name: Voilts Info
+  m_EditorClassIdentifier: 
+  <AllVoilts>k__BackingField:
+  - {fileID: 11400000, guid: 346df6106c7f9384fad1e8cc74e780f7, type: 2}
+  - {fileID: 11400000, guid: 0ec1d10007317934ea80c6b9d778d2d1, type: 2}
+  - {fileID: 11400000, guid: 14e5b29ff16807f40bb53af542f166e6, type: 2}
+  - {fileID: 11400000, guid: 9517ead4cf0860d4b8554e386c38b8f9, type: 2}
+  - {fileID: 11400000, guid: 51549366f42e37943ab88eec2a9909ad, type: 2}
+  showDebugParameters: 1
+  purchasedVoilts: []
